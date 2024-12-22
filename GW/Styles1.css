@@ -1,0 +1,460 @@
+
+header{
+    background-color: #adadad;
+    height: 110px;
+}
+
+body{
+    background-color: #c7c7c7;
+}
+
+.Web-Name{
+    text-align: center;
+    font-family: Verdana, Tahoma, sans-serif;
+}
+
+a{
+    font-size: 25px;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    margin-left: 20px;
+    margin-right: 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+a:hover{
+    font-size: 27px;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    margin-left: 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.Right{
+    float: right;
+    margin-left: 20px;
+    font-size: 25px;
+}
+
+.pfp{
+    border: solid black 3px;
+    border-radius: 100px;
+    margin-left: 50px;
+}
+
+h2{
+    display: inline;
+    text-align: center;
+    font-family: Verdana, Tahoma, sans-serif;
+}
+
+.profile-container {
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    margin-left: 50px; 
+}
+
+.pfp {
+    border: solid black 3px;
+    border-radius: 100px;
+    margin-right: 20px;
+}
+
+.pfp:hover {
+    border: solid black 3px;
+    border-radius: 100px;
+    margin-right: 20px;
+    box-shadow: 5px 5px 200px 5px black;
+
+    transition: 2s;
+}
+
+.profile-name {
+    font-family: Verdana, Tahoma, sans-serif;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.Posts{
+    text-align: center;
+    font-family: Verdana, Tahoma, sans-serif;
+}
+
+.profile-name1 {
+    font-family: Verdana, Tahoma, sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.h5{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container{
+    height: 20px;
+    width: 700px;
+    background-color: #b0b0b0;
+    margin-left: 170px;
+    border-radius: 15px;
+}
+
+.container1{
+    height: 400px;
+    width: 700px;
+    background-color: #b0b0b0;
+    margin-left: 170px;
+    border-radius: 15px;
+}
+
+.container11{
+    height: 300px;
+    width: 700px;
+    background-color: #b0b0b0;
+    margin-left: 170px;
+    border-radius: 15px;
+}
+.container111{
+    height: 450px;
+    width: 700px;
+    background-color: #b0b0b0;
+    margin-left: 170px;
+    border-radius: 15px;
+}
+
+.container2{
+    height: 400px;
+    width: 700px;
+    background-color: #b0b0b0;
+    margin-left: 170px;
+    border-radius: 15px;
+}
+
+.container22{
+    height: 450px;
+    width: 700px;
+    background-color: #b0b0b0;
+    margin-left: 170px;
+    border-radius: 15px;
+}
+
+.container3{
+    height: 400px;
+    width: 700px;
+    background-color: #b0b0b0;
+    margin-left: 170px;
+    border-radius: 15px;
+}
+
+.container333{
+    height: 500px;
+    width: 700px;
+    background-color: #b0b0b0;
+    margin-left: 170px;
+    border-radius: 15px;
+}
+
+.container4{
+    height: 600px;
+    width: 700px;
+    background-color: #b0b0b0;
+    margin-left: 170px;
+    border-radius: 15px;
+}
+
+.container5{
+    height: 500px;
+    width: 700px;
+    background-color: #b0b0b0;
+    margin-left: 170px;
+    border-radius: 15px;
+}
+
+.container8{
+    height: 500px;
+    width: 700px;
+    background-color: #b0b0b0;
+    margin-left: 170px;
+    border-radius: 15px;
+}
+
+.container9{
+    height: 500px;
+    width: 700px;
+    background-color: #b0b0b0;
+    margin-left: 170px;
+    border-radius: 15px;
+}
+
+
+.Python{
+    border: solid black 3px;
+    border-radius: 40px;
+    margin-left: 170px;
+}
+
+.search {
+    position: absolute;
+    top: 170px;
+    right: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60px;
+    width: 400px; 
+    background-color: #b0b0b0;
+}
+
+.search input {
+    width: 80%;
+    height: 40px;
+    box-sizing: border-box;
+}
+
+.search1 {
+    position: absolute;
+    top: 240px;
+    right: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    width: 400px; 
+    background-color: #b0b0b0;
+}
+
+.search4 {
+    position: absolute;
+    top: 2390px;
+    right: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    width: 400px; 
+    background-color: #b0b0b0;
+}
+
+.search5 {
+    position: absolute;
+    top: 3115px;
+    right: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    width: 400px; 
+    background-color: #b0b0b0;
+}
+
+.search6 {
+    position: absolute;
+    top: 3840px;
+    right: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    width: 400px; 
+    background-color: #b0b0b0;
+}
+
+.search2 {
+    position: absolute;
+    top: 950px;
+    right: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    width: 400px; 
+    background-color: #b0b0b0;
+}
+
+.search3 {
+    position: absolute;
+    top: 1670px;
+    right: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    width: 400px; 
+    background-color: #b0b0b0;
+}
+
+footer {
+    background-color: #adadad;
+    height: 110px;
+    text-align: center; 
+    display: flex; 
+    flex-direction: column;
+    justify-content: center;
+    margin-top: 125px;
+}
+
+body {
+    background-color: #c7c7c7;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+header {
+    background-color: #adadad;
+    height: 120px; 
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 40px;
+}
+
+.Web-Name {
+    font-family: 'Verdana', Tahoma, sans-serif;
+    font-size: 40px;
+    color: #333;
+}
+
+.nav-left {
+    display: flex;
+}
+
+.nav-left a {
+    font-size: 30px; 
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    margin-left: 30px; 
+    margin-right: 20px;
+}
+
+.nav-left a:hover {
+    font-size: 32px;
+    color: black;
+}
+
+.nav-right {
+    display: flex;
+    align-items: center;
+    margin-left: auto;
+}
+
+.Right {
+    font-size: 30px;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    margin-left: 30px;
+    margin-right: 20px;
+}
+
+.Right:hover {
+    font-size: 32px; 
+    color: black;
+}
+
+.login-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+}
+
+.login-box {
+    width: 500px;
+    background-color: white;
+    padding: 60px;
+    border-radius: 10px; 
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1); 
+    text-align: center;
+}
+
+.logo {
+    width: 200px;
+    border-radius: 100px;
+    margin-left: 80px;
+    margin-bottom: 20px;
+}
+
+.input-group {
+    margin-bottom: 20px; 
+}
+
+.input-group input {
+    width: 100%;
+    padding: 18px;
+    border: 1px solid #dddfe2;
+    border-radius: 8px; 
+    font-size: 18px;
+    background-color: #f4f6f9;
+    color: #1c1e21;
+}
+
+.input-group input:focus {
+    border-color: #000000;
+    outline: none;
+}
+
+.login-btn {
+    width: 540px;
+    padding: 18px;
+    background-color: #000000;
+    border: none;
+    color: white;
+    font-size: 18px;
+    border-radius: 8px; 
+    cursor: pointer;
+    margin-right: 30px;
+}
+
+.login-btn:hover {
+    background-color: #3b3b3b;
+}
+
+.forgot-password {
+    margin-top: 15px;
+}
+
+.forgot-password a {
+    color: #4b4f56;
+    font-size: 16px;
+    text-decoration: none;
+}
+
+.signup-prompt {
+    margin-top: 30px;
+    font-size: 16px;
+    color: #4b4f56;
+    margin-right: 30px;
+}
+
+.signup-prompt a {
+    color: #4b4f56;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+footer {
+    background-color: #adadad;
+    height: 120px; 
+    text-align: center; 
+    display: flex; 
+    flex-direction: column;
+    justify-content: center;
+}
+
+h5 {
+    font-size: 18px; 
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    font-size: 25px; 
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+
+
