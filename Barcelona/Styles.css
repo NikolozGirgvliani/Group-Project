@@ -9,7 +9,7 @@ header {
 
 .index {
   background-color: rgba(42, 61, 143, 0.7);
-  background-image: url('GOAL_-_Blank_WEB_-_Facebook_-_2023-10-24T122908.921.png.webp'); /* Check the image file path */
+  background-image: url('Images/GOAL_-_Blank_WEB_-_Facebook_-_2023-10-24T122908.921.png.webp'); /* Check the image file path */
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -22,7 +22,7 @@ header {
 
 .Team {
   background-color: rgba(42, 61, 143, 0.7);
-  background-image: url('wallpaperflare.com_wallpaper.jpg'); /* Check the image file path */
+  background-image: url('Images/wallpaperflare.com_wallpaper.jpg'); /* Check the image file path */
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -35,7 +35,7 @@ header {
 
 .store2 {
   background-color: rgba(42, 61, 143, 0.7);
-  background-image: url('GOAL\ -\ Blank\ WEB\ -\ Facebook\ \(11\).png.webp'); /* Check the image file path */
+  background-image: url('Images/GOAL\ -\ Blank\ WEB\ -\ Facebook\ \(11\).png.webp'); /* Check the image file path */
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -48,7 +48,7 @@ header {
 
 .FCB1 {
   background-color: rgba(42, 61, 143, 0.7);
-  background-image: url('wallpaperflare.com_wallpaper.jpg');
+  background-image: url('Images/wallpaperflare.com_wallpaper.jpg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
